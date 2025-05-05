@@ -9,7 +9,7 @@
 
 - 🔧 現在の業務: クリエイター支援・マネジメント / ソフトウェアエンジニアリング / 経営
 - 🛠 使用言語・技術: Everything. 主に Python / TypeScript / C++ / Flask / Docker / MySQL
-- 📂 プロジェクト管理・設計: "強いEM" / SOLID / MVC
+- 📂 プロジェクト管理・設計: "強いEM" / マイクロサービスアーキテクチャ / SOLID
 - 📫 連絡先: `cont@lilidigi.com`
 
 ---
